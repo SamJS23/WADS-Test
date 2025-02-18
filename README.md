@@ -1,1 +1,4 @@
-# WADS-Test
+- Name: Samuel James Setiadi
+- Student ID: 2702357876
+- Class: L4CC
+- Article:
