@@ -9,3 +9,5 @@ In the fast-paced world of web development, the approach to building application
 
 **Understanding Monolithic vs. Microservices**
 Before we dive into the world of microservices, it’s crucial to understand the conventional monolithic approach to web development. Traditionally, web applications were built as monoliths. In a monolithic architecture, an entire application is constructed as a single, interconnected unit. This includes the user interface, server-side logic, and the database, all bundled together within a single codebase.
+
+While monolithic applications are simple to set up and develop in the early stages of a project, they face challenges as they grow. Any changes or updates to one part of the application can potentially disrupt the entire system. This complexity makes maintenance and scaling difficult in monolithic architectures.
